@@ -1,0 +1,7 @@
+# FSDI 101 Session #4 
+
+- use ! to create the html general structure. 
+- make sure to understand the path for img, a, link  "../" or " ./pages/about.html" (is case sensitive).
+- tags: h1-h6, div, article, a, main, img, nav, p.
+- CSS selectors: tagName .className
+- CSS properties: color, margin, padding, display:flex, text-
